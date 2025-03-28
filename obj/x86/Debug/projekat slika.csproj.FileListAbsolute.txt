@@ -1,0 +1,38 @@
+C:\Users\11a19\Saved Games\JebenoSranjeKoGaJeBirao\JebenoSranjeKoGaJeBirao\bin\Debug\Projekatslika.exe
+C:\Users\11a19\Saved Games\JebenoSranjeKoGaJeBirao\JebenoSranjeKoGaJeBirao\bin\Debug\Projekatslika.pdb
+C:\Users\11a19\Saved Games\JebenoSranjeKoGaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\11a19\Saved Games\JebenoSranjeKoGaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Debug\projekatslika.Properties.Resources.resources
+C:\Users\11a19\Saved Games\JebenoSranjeKoGaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\11a19\Saved Games\JebenoSranjeKoGaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\11a19\Saved Games\JebenoSranjeKoGaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Debug\Projekatslika.exe
+C:\Users\11a19\Saved Games\JebenoSranjeKoGaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Debug\Projekatslika.pdb
+C:\Users\11a19\Saved Games\JebenoSranjeKoGaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Debug\DetekcijaIvica.Form1.resources
+Z:\Projekti 3a\Jovan i Dusica i Ivana i Marko\Projekat\JebenoSranjeKogaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Debug\Projekatslika.exe
+Z:\Projekti 3a\Jovan i Dusica i Ivana i Marko\Projekat\JebenoSranjeKogaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Debug\Projekatslika.pdb
+Z:\Projekti 3a\Jovan i Dusica i Ivana i Marko\Projekat\JebenoSranjeKogaJeBirao\JebenoSranjeKoGaJeBirao\bin\Debug\Projekatslika.exe
+Z:\Projekti 3a\Jovan i Dusica i Ivana i Marko\Projekat\JebenoSranjeKogaJeBirao\JebenoSranjeKoGaJeBirao\bin\Debug\Projekatslika.pdb
+Z:\Projekti 3a\Jovan i Dusica i Ivana i Marko\Projekat\JebenoSranjeKogaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Projekti 3a\Jovan i Dusica i Ivana i Marko\Projekat\JebenoSranjeKogaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Debug\DetekcijaIvica.Form1.resources
+Z:\Projekti 3a\Jovan i Dusica i Ivana i Marko\Projekat\JebenoSranjeKogaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Debug\projekatslika.Properties.Resources.resources
+Z:\Projekti 3a\Jovan i Dusica i Ivana i Marko\Projekat\JebenoSranjeKogaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Projekti 3a\Jovan i Dusica i Ivana i Marko\Projekat\JebenoSranjeKogaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Jovan i Dusica i Ivana i Marko\Projekat\JebenoSranjeKogaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Debug\Projekatslika.exe
+Z:\Jovan i Dusica i Ivana i Marko\Projekat\JebenoSranjeKogaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Debug\Projekatslika.pdb
+Z:\Jovan i Dusica i Ivana i Marko\Projekat\JebenoSranjeKogaJeBirao\JebenoSranjeKoGaJeBirao\bin\Debug\Projekatslika.exe
+Z:\Jovan i Dusica i Ivana i Marko\Projekat\JebenoSranjeKogaJeBirao\JebenoSranjeKoGaJeBirao\bin\Debug\Projekatslika.pdb
+Z:\Jovan i Dusica i Ivana i Marko\Projekat\JebenoSranjeKogaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Jovan i Dusica i Ivana i Marko\Projekat\JebenoSranjeKogaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Debug\DetekcijaIvica.Form1.resources
+Z:\Jovan i Dusica i Ivana i Marko\Projekat\JebenoSranjeKogaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Debug\projekatslika.Properties.Resources.resources
+Z:\Jovan i Dusica i Ivana i Marko\Projekat\JebenoSranjeKogaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Jovan i Dusica i Ivana i Marko\Projekat\JebenoSranjeKogaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\PROJEKTI\Projekat\JebenoSranjeKogaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Debug\Projekatslika.exe
+H:\PROJEKTI\Projekat\JebenoSranjeKogaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Debug\Projekatslika.pdb
+C:\Users\Marko\Desktop\CV Projekti\Edge_Detection\bin\Debug\Projekatslika.exe
+C:\Users\Marko\Desktop\CV Projekti\Edge_Detection\bin\Debug\Projekatslika.pdb
+C:\Users\Marko\Desktop\CV Projekti\Edge_Detection\obj\x86\Debug\projekat slika.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\CV Projekti\Edge_Detection\obj\x86\Debug\DetekcijaIvica.Form1.resources
+C:\Users\Marko\Desktop\CV Projekti\Edge_Detection\obj\x86\Debug\projekatslika.Properties.Resources.resources
+C:\Users\Marko\Desktop\CV Projekti\Edge_Detection\obj\x86\Debug\projekat slika.csproj.GenerateResource.cache
+C:\Users\Marko\Desktop\CV Projekti\Edge_Detection\obj\x86\Debug\projekat slika.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\CV Projekti\Edge_Detection\obj\x86\Debug\Projekatslika.exe
+C:\Users\Marko\Desktop\CV Projekti\Edge_Detection\obj\x86\Debug\Projekatslika.pdb

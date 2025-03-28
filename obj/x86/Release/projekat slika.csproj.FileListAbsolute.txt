@@ -1,0 +1,9 @@
+C:\Users\11a19\Saved Games\JebenoSranjeKoGaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\11a19\Saved Games\JebenoSranjeKoGaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\11a19\Saved Games\JebenoSranjeKoGaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\11a19\Saved Games\JebenoSranjeKoGaJeBirao\JebenoSranjeKoGaJeBirao\bin\Release\Projekatslika.exe
+C:\Users\11a19\Saved Games\JebenoSranjeKoGaJeBirao\JebenoSranjeKoGaJeBirao\bin\Release\Projekatslika.pdb
+C:\Users\11a19\Saved Games\JebenoSranjeKoGaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Release\projekatslika.Properties.Resources.resources
+C:\Users\11a19\Saved Games\JebenoSranjeKoGaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Release\Projekatslika.exe
+C:\Users\11a19\Saved Games\JebenoSranjeKoGaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Release\Projekatslika.pdb
+C:\Users\11a19\Saved Games\JebenoSranjeKoGaJeBirao\JebenoSranjeKoGaJeBirao\obj\x86\Release\JebenoSranjeKoGaJeBirao.Form1.resources
